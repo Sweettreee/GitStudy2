@@ -3,6 +3,8 @@ fn main () {
 
     print!("Hello, world!") ;
 
+    println("hihihi!") ;
+
     let rust = "Rust" ;
 
     println!(" {}!", rust) ;
