@@ -3,10 +3,6 @@ fn main () {
 
     print!("Hello, world!") ;
 
-    println("hihihi!") ;
-
-    println("I'm done with my work")
-
     let r = "placement" ;
 
     let rust = "Rust" ;
